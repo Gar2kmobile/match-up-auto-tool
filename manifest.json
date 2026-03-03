@@ -1,6 +1,6 @@
 {
-  "name": "MATCH UP AUTO TOOL",
-  "short_name": "MATCH UP",
+  "name": "Gar2k TOOL",
+  "short_name": "Gar2k",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -18,3 +18,4 @@
     }
   ]
 }
+
